@@ -55,6 +55,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ["var(--font-sans)", ...fontFamily.sans],
+        poppins: ['Poppins', 'sans-serif']
       },
       keyframes: {
         "accordion-down": {
